@@ -4,6 +4,7 @@ body
   margin: 0;
 }
 
+
 .nav-sec{
   display: flex;
   justify-self: center;
@@ -34,7 +35,8 @@ ul{
   border-radius: 5px;
 }
 
-section{
+
+.section-1{
   display: flex;
 }
 .mid-section{
