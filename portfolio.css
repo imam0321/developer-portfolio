@@ -61,7 +61,8 @@ ul {
   width: 150%;
   height: 90%;
 }
-.download-cv {
+.download-cv-1,
+.download-cv-2 {
   text-decoration: none;
   color: white;
   font-size: 16px;
@@ -134,4 +135,43 @@ ul {
   font-size: 12px;
   font-weight: 300;
   color: rgba(54, 52, 52, 0.631);
+}
+.summary {
+  margin-top: 25%;
+  margin-bottom: 15%;
+}
+.summary-1 {
+  display: flex;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+.summary-1-1 {
+  padding-right: 10px;
+}
+.summary-p-1,
+.summary-p-2,
+.summary-p-3 {
+  font-weight: 700;
+}
+.summary-p-1 {
+  font-size: 16px;
+}
+.summary-p-2 {
+  font-size: 20px;
+  margin-bottom: -10px;
+}
+.summary-p-3,
+.summary-p-4 {
+  color: rgba(54, 52, 52, 0.631);
+}
+.summary-p-3 {
+  font-size: 16px;
+}
+.summary-p-4 {
+  font-size: 14px;
+  font-weight: 300;
+}
+.download-cv-2 {
+  margin-top: px;
+  margin-left: 560px;
 }
