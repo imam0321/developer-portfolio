@@ -77,10 +77,12 @@ ul {
 }
 
 .about-me {
-  padding-top: 200px;
-  padding-bottom: 150px;
+  margin-top: 200px;
+  margin-bottom: 200px;
 }
-
+.about-me-1 {
+  font-size: 28px;
+}
 .about-me-1,
 .about-me-2 {
   text-align: center;
@@ -109,4 +111,27 @@ ul {
 }
 .about-me-3-1-2 {
   font-weight: 700;
+}
+.do {
+  margin-bottom: 180px;
+}
+.do-1 {
+  display: flex;
+  padding-left: 10%;
+  margin-top: 80px;
+}
+.do-1-1 img {
+  width: 35px;
+}
+.do-1-1 {
+  padding-right: 8%;
+}
+.do-1-1-1 {
+  font-size: 14px;
+  font-weight: 700;
+}
+.do-1-1-2 {
+  font-size: 12px;
+  font-weight: 300;
+  color: rgba(54, 52, 52, 0.631);
 }
